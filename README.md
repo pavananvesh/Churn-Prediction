@@ -1,2 +1,2 @@
-# Churn-Prediction
+# ChurnPrediction
 Churn Prediction using Random Forest 
